@@ -1,0 +1,21 @@
+{
+	"name": "darkorange-theme-vscode",
+	"displayName": "doran'vs",
+	"description": "dark orange theme for vscode",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.50.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "doran'vs",
+				"uiTheme": "vs-dark",
+				"path": "./themes/doran'vs-color-theme.json"
+			}
+		]
+	}
+}
