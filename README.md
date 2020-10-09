@@ -160,4 +160,4 @@ Tokens:
 
 ## Author
 Theme created by -- Ciro Amato @DrKGD\
-Repository @ [darkorange-theme-vscode](https://github/DrKGD/darkorange-theme-vscode)
+Repository at [darkorange-theme-vscode](https://github.com/DrKGD/darkorange-theme-vscode)
