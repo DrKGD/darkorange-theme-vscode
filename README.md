@@ -9,6 +9,30 @@ Dark orange based theme which colors were chosen to my liking.
 * This was _not_ supposed to be a halloween-inspired theme. _spooky_.
 	* No pumpkins were harmed in the making of this theme!
 
+## Screenshots
+
+![c++](https://user-images.githubusercontent.com/44092476/95613485-5214c680-0a65-11eb-994b-2047632b12d7.png)
+
+![settings](https://user-images.githubusercontent.com/44092476/95613489-53de8a00-0a65-11eb-83eb-19a7e7e28fdf.png)
+
+![java](https://user-images.githubusercontent.com/44092476/95613487-52ad5d00-0a65-11eb-8d98-827d555547e6.png)
+
+![json](https://user-images.githubusercontent.com/44092476/95613986-11697d00-0a66-11eb-9fcd-3e9549f76d72.png)
+
+![welcome](https://user-images.githubusercontent.com/44092476/95613492-54772080-0a65-11eb-8540-8ad17c386615.png)
+
+
+## Installation
+Install this dark theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=drkgd.darkorange-theme-vscode).\
+You can also search it up through the extension tab!
+
+## Apply theme
+Launch *Quick Open*
+  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl + Shift + P`
+  - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
+  - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
+
+Start typing `theme`, choose `Preferences: Color Theme`, finally select `doran'vs`
 
 ## Recommended settings
 I have nothing to recommend in particular, it is just a theme... or is it?
@@ -92,6 +116,7 @@ I also complete the interface of VSCode by having [Activitus Bar](https://github
 
 ### **Icons**
 Finally, I prefer simple icons in the explorer, so I'd rather stick with `Minimal` or [Chalice Icon Theme](https://github.com/artlaman/chalice-icon-theme).
+
 
 ## Feedback
 If you find any issue with my theme, or you feel like something should be added, let me know on [github issue](https://github.com/DrKGD/darkorange-theme-vscode/issues). 

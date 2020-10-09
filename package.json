@@ -2,7 +2,11 @@
 	"name": "darkorange-theme-vscode",
 	"displayName": "doran'vs",
 	"description": "dark orange theme for vscode",
-	"version": "0.0.1",
+	"version": "0.0.2",
+	"icon": ".images/logo.png",
+	"author": "DrKGD",
+	"publisher": "drkgd",
+	"repository": {"url": "https://github.com/DrKGD/darkorange-theme-vscode"},
 	"engines": {
 		"vscode": "^1.50.0"
 	},
